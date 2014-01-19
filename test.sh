@@ -1,2 +1,3 @@
-node /**/a > /**/out 2>&1
-cmp /**/a /**/out
+cp a /\*\*/a
+node /\*\*/a > /\*\*/out 2>&1
+diff -s /\*\*/a /\*\*/out
