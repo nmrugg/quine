@@ -2,17 +2,8 @@ This is my attempt at writing the shortest possible quine in JavaScript. It's a 
 
 Two helper scripts are included. `init.sh` will create the necessary directory and `test.sh` will run the quine. (You need to run `init.sh` as root by the way, and you only need to run it once.)
 
-The quine itself is located in `quine.js`, and here it is:
+The quine itself is located in `quine.js`.
 
-<pre>
-
-/**/a:3
-throw 0
-^
-0
-
-</pre>
-
-What do you think? Suggestions and pull requests are welcome.
+Suggestions and pull requests are welcome.
 
 _(There are also other types of JavaScript quines in the `others` directory just for fun.)_
