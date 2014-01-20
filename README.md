@@ -13,4 +13,6 @@ throw 0
 
 </pre>
 
-What do you think? Suggestions and improvements are welcome.
+What do you think? Suggestions and pull requests are welcome.
+
+_(There are also other types of JavaScript quines in the `other` directory just for fun.)_
