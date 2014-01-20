@@ -15,4 +15,4 @@ throw 0
 
 What do you think? Suggestions and pull requests are welcome.
 
-_(There are also other types of JavaScript quines in the `other` directory just for fun.)_
+_(There are also other types of JavaScript quines in the `others` directory just for fun.)_
