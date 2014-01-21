@@ -1,1 +1,1 @@
-q=String.fromCharCode(34);function p(a){console.log(a+'p('+q+a+q+')')};p("q=String.fromCharCode(34);function p(a){console.log(a+'p('+q+a+q+')')};")
+function p(a){q=JSON.stringify(a)[0];console.log(a+'p('+q+a+q+')')};p("function p(a){q=JSON.stringify(a)[0];console.log(a+'p('+q+a+q+')')};")

@@ -1,1 +1,1 @@
-a=";q=String.fromCharCode(34);console.log('a='+q+a+q+a)";q=String.fromCharCode(34);console.log('a='+q+a+q+a)
+a=";q=JSON.stringify(a)[0];console.log('a='+q+a+q+a)";q=JSON.stringify(a)[0];console.log('a='+q+a+q+a)
