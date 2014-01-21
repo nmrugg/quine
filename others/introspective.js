@@ -1,1 +1,1 @@
-+function a(){console.log("+"+a.toString()+"()")}()
++function a(){console.log("+"+String(a)+"()")}()
