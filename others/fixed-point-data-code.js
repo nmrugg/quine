@@ -1,1 +1,1 @@
-a=";q=''+Buffer([34]);console.log('a='+q+a+q+a)";q=''+Buffer([34]);console.log('a='+q+a+q+a)
+a=";b=Buffer([34])+a;console.log('a='+b+b)";b=Buffer([34])+a;console.log('a='+b+b)
