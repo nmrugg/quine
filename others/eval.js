@@ -1,1 +1,1 @@
-eval(e="b=e;console.log('eval(e='+Buffer([34])+b+Buffer([34])+')')")
+eval(e="q=''+Buffer([34]);b=e;console.log('eval(e='+q+b+q+')')")
